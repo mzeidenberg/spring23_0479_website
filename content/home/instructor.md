@@ -10,7 +10,7 @@ columns: '1'
 ---
 
 Data Management and Analysis  
-Sections 2 and 3  
+Section 2  
 [Matt Zeidenberg](https://www.mattzeidenberg.com/)  
 Clinical Associate Professor   
 [Department of Computer Science](https://cs.nyu.edu/home/index.html)   
@@ -22,4 +22,4 @@ email: mz3332@nyu.edu
 Cell: 718-304-7609   
 Fax: 212-995-4124   
 
-Teaching Assistant: Jaimin Dineshbhai Khanderia, jk7178@nyu.edu 
+Teaching Assistant: Shubhankar Ranade, sr6200@nyu.edu

@@ -12,26 +12,21 @@ columns: '1'
 
 All of the Zoom links below (for meetings and office hours) can be also found on Brightspace.
 
-* Section 2
-    - Mondays and Wednesdays 3:30-4:45PM, Silver 411 
-    - Zoom link: https://nyu.zoom.us/j/91456518002
-    - In-person attendence is preferred.
-* Section 3 
-    - Mondays and Wednesdays 11AM-12:15PM, Online
-    - Zoom link: https://nyu.zoom.us/j/93142815959
+- Tuesdays and Wednesdays 3:30-4:45PM, Silver 520
+- Zoom link: https://nyu.zoom.us/j/91245611185
+- Sessions will be recorded, but in-person attendence is preferred.
 
 ## Office Hours
-My office hours will be held on Zoom this semester on Tuesdays and Thursdays from 11AM to 1 PM starting on Sept. 6.
+My office hours will be held on Zoom and in person this semester from 2-3 PM every weekday except Friday. If you want to 
+meet me in person, come to my office in 419 Warren Weaver Hall.
 
-Zoom link: https://nyu.zoom.us/j/92211652314
+The Zoom link for office hours is https://nyu.zoom.us/j/96750082623
 
 Please turn your camera on if possible when you connect.
 
 If you are unable to log on at these times and would like to talk to me, please email me for an appointment.
 
-Jaimin, the TA, will also be holding Zoom office hours on Tuesdays and Wednesdays from 2-3 PM. The link is https://nyu.zoom.us/j/96413006016?pwd=Z3gyS043RlNyRTl5dC94Z3ArbzI2Zz09 
-
-You can also access Jaimin's meeting link in Brightspace.
+Shubhankar, the TA, will also be holding Zoom office hours. Times and link to be announced.
 
 ## Course Description
 
@@ -98,14 +93,15 @@ encourage attendance.
 
 ## Homework
 
-There will be 6 to 8 assignments.
+There will be 5 to 6 assignments.
 
 You get 10 grace days for assignment due dates, to be used as you choose. For instance, if you turn the first assignment in 2 days late, you will have 8 days left. The graders will track this for you. After you exhaust your late days, you lose 10% for each day late.
 
 The grace day system is designed to handle any personal situations you have, like a religious celebration, a family gathering, a short illness, a lot of work from other classes, etc.
 
 ## Information about Ed
-Please sign up for the Ed system using this [link](https://edstem.org/us/join/aX7eJa).
+You should have been automatically signed up for the Ed discussion system. The link (also in Brightspace in the Content area$)
+is https://edstem.org/us/courses/35997/discussion/
 
 Ed is an online discussion forum system that is designed to make it easy to have conversations around code.  Using Ed you will be able to ask me, the course tutors or your fellow students questions about course content and homework assignments. So if you have a question about the course content that could be of interest to other students, please post your question to Ed rather than sending me or the course assistant an email. Both of us will monitor Ed and answer questions there. You can also feel free to answer questions yourself if you know the answer.
 
