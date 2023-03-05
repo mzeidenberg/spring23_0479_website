@@ -40,7 +40,7 @@ The following schedule is subject to change based on the speed at which we get t
 || [Pandas Part 3](https://colab.research.google.com/drive/14EdDK9SmaSbYyG31XgorSr9EroqcT2AZ?usp=sharing)||
 |Th 3/2| [Pandas Part 4](https://colab.research.google.com/drive/1QALIjdfj2a7Vzmjro_M_J64_Nn52Z54d?usp=sharing)||
 || [Pandas Part 5](https://colab.research.google.com/drive/1YiSIEp61ODkzsNSDgUfSgoXrowZItX3N?usp=sharing)||
-|Tu 3/7|Review for Midterm Exam||
+|Tu 3/7|Review for Midterm Exam; Practice Exams, without solutions: [#1](https://colab.research.google.com/drive/1DqoBBd0GP2hoDSNYaT-l0hPGjypjCJHB?usp=sharing) [#2](https://colab.research.google.com/drive/10XDQe9mXvcBr3_j_krmmknVs3JIgNT1s?usp=sharing) with solutions: [#1](https://colab.research.google.com/drive/1Ial3Huuy-dxLI0OGJs2FPd0bsnkky8lZ?usp=sharing) [#2](https://colab.research.google.com/drive/1YMIOqLGJC5JWO9-TtjUdDM2Ta_hpWpNA?usp=sharing)||
 |Th 3/9|Midterm Exam||
 |Tu 3/14 & Th 3/16|No Class, Spring Break||
 |Tu 3/21|[Overview of Relational Databases](https://colab.research.google.com/drive/1JbXAi2D1o1nRLmqC7RCHfDFeHv0N-20L?usp=sharing)||
