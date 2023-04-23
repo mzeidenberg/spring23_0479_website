@@ -58,9 +58,9 @@ The following schedule is subject to change based on the speed at which we get t
 || [Indexes](https://colab.research.google.com/drive/1z76QcidpYzzcOXZwyjl4u4eMTTCsHRd5?usp=sharing)||
 || Window Functions: [Google Slides](https://docs.google.com/presentation/d/1piXTDCmIcvC8em5Re9AnrnsxcB-I1MzqkktQmzAD5iw/edit?usp=sharing); [Notebook](https://drive.google.com/file/d/115om8CccBYxTZc3w-hqfVwGTWJeUtrrG/view?usp=sharing)||
 |Tu 4/18|[NoSQL: MongoDB](https://colab.research.google.com/drive/1fANwBEUHNJYVVCOYF4eK8L2yMgxy87DS?usp=sharing)||
-|Th 4/20|[Graph Databases](https://docs.google.com/presentation/d/1CFq0O5mIctp5QyjYWD3zuKvFk2R5yPUd53Cj68oR-O8/edit?usp=sharing)||
-|Tu 4/25|Linear and Logistic Regression||
-|Th 4/27|Decision Trees; Random Forests (Machine Learning)||
+|Th 4/20|[Linear and Logistic Regression](https://colab.research.google.com/drive/1zTE3lKn7JxB1dtBKVkWozexF0ebwPxlc?usp=sharing)||
+|Tu 4/25|[Decision Trees; Random Forests (Machine Learning)](https://colab.research.google.com/drive/1PxsHAR_uijeo4S_deQielFktl_AiTpO5?usp=sharing)||
+|Th 4/27|[Graph Databases](https://docs.google.com/presentation/d/1CFq0O5mIctp5QyjYWD3zuKvFk2R5yPUd53Cj68oR-O8/edit?usp=sharing)||
 |Tu 5/2|TBA||
 |Th 5/4|Review for Final Exam||
-|TBA|Final Exam, Time, Date, and Location to be Announced||
+|W 5/10|Final Exam, Silver Room 520, 4-5:50 PM||

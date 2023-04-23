@@ -17,10 +17,11 @@ All of the Zoom links below (for meetings and office hours) can be also found on
 - Sessions will be recorded, but in-person attendence is preferred.
 
 ## Office Hours
-My office hours will be held on Zoom and in person this semester from 2-3 PM every weekday except Friday. If you want to 
+
+My office hours will be held on Zoom and in person this semester from 2-3 PM every weekday except Friday. If you want to
 meet me in person, come to my office in 419 Warren Weaver Hall.
 
-The Zoom link for office hours is https://nyu.zoom.us/j/96750082623
+The Zoom link for office hours is https://nyu.zoom.us/j/94572646877
 
 Please turn your camera on if possible when you connect.
 
@@ -36,29 +37,28 @@ Extracting, transforming and analyzing data in myriad formats with traditional r
 
 * Python
 * data formats and retrieving data:
-    - data formats (JSON CSV TSV etc.)
-    - retrieving data with Python (web, file system, etc.)
+  - data formats (JSON CSV TSV etc.)
+  - retrieving data with Python (web, file system, etc.)
 * working with Python data management packages (pandas, numpy)
 * (a taste of) data analysis
-    - descriptive statistics
-    - linear and logistic regression
-    - decision trees and random forests
+  - descriptive statistics
+  - linear and logistic regression
+  - decision trees and random forests
 * data visualization and plotting with Matplotlib
 * relational databases using SQL:
-    - SQLite
-    - relational database design
-    - Entity/Relationship (ER) diagrams
-    - normalization
-    - SQL syntax
-    - basic create/read/update/delete
-    - JOINs
-    - aggregate queries
-    - window functions
+  - SQLite
+  - relational database design
+  - Entity/Relationship (ER) diagrams
+  - normalization
+  - SQL syntax
+  - basic create/read/update/delete
+  - JOINs
+  - aggregate queries
+  - window functions
 * NoSQL:
-    - MongoDB (a JSON document database)
-         + basic create/read/update/delete
-         + querying
-
+  - MongoDB (a JSON document database)
+    + basic create/read/update/delete
+    + querying
 
 ## Textbooks
 
@@ -71,6 +71,7 @@ The following books are all available for free online reading through the NYU li
 * Relational Database Design and Implementation, 4th Edition, by Jan L. Harrington
 
 ## Grading
+
 I plan to use the following breakdown for grading.
 
 * 5% - In-Class Participation
@@ -84,7 +85,7 @@ I will be posting problems on Ed (see below) to be done during class.
 
 You don't need to get these problems right, but you do need to try to do them, that is, post some answer, in order to get credit for class participation.
 
-Credit will only be given for answers posted during class time. And if 
+Credit will only be given for answers posted during class time. And if
 you post some answer to 75% of the problems I post, you will get full
 credit for participation.
 
@@ -100,6 +101,7 @@ You get 10 grace days for assignment due dates, to be used as you choose. For in
 The grace day system is designed to handle any personal situations you have, like a religious celebration, a family gathering, a short illness, a lot of work from other classes, etc.
 
 ## Information about Ed
+
 You should have been automatically signed up for the Ed discussion system. The link (also in Brightspace in the Content area$)
 is https://edstem.org/us/courses/35997/discussion/
 
@@ -109,12 +111,14 @@ If you have a question for me that only concerns you (e.g. something about your 
 
 ## Personal Computers and Software
 
-It is highly encouraged that you bring a laptop to class. 
+It is highly encouraged that you bring a laptop to class.
 
 I recommend installing [Anaconda](https://www.anaconda.com/) on your machine. We will be mainly using Google Colab notebooks in class which I will share with you. You can make your own copies of these notebooks and run and edit those copies online. However, you may want to run some notebooks locally on your machine. Anaconda installs JupyterLab on your machine which is what I recommend using for this. It also installs lot of other useful software.
 
 ## Disability Disclosure Statement
+
 Academic accommodations are available for students with disabilities. Please contact the Moses Center for Students with Disabilities (212-998-4980 or mosescsd@nyu.edu) for further information. Students who are requesting academic accommodations are advised to reach out to the Moses Center as early as possible in the semester for assistance, although it can be done at any time during the semester.
 
 ## Collaboration & Academic Integrity
+
 Assignments that you turn in should be your own work. It is fine to talk to other students and to get assistance in how to do something, but you should not ask your fellow students to actually do the work for you. When you turn in an assignment, you are saying that you have done this work yourself. The definition of plagiarism is to present someone else’s work as though it were your own. Please read the Computer Science Department [statement on academic integrity](https://cs.nyu.edu/home/undergrad/policy.html) for more information.
