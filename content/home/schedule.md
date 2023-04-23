@@ -56,7 +56,6 @@ The following schedule is subject to change based on the speed at which we get t
 |Th 4/13|[SQLite Constraints](https://colab.research.google.com/drive/1l5gAZPsF3pXRYQ38el-WWFhIZiGZ9_TD?usp=sharing)||
 || [Triggers](https://colab.research.google.com/drive/1k8VG2XlnyWC9EmCFPHNf_oXlINGHWTh-?usp=sharing)||
 || [Indexes](https://colab.research.google.com/drive/1z76QcidpYzzcOXZwyjl4u4eMTTCsHRd5?usp=sharing)||
-|| Window Functions: [Google Slides](https://docs.google.com/presentation/d/1piXTDCmIcvC8em5Re9AnrnsxcB-I1MzqkktQmzAD5iw/edit?usp=sharing); [Notebook](https://drive.google.com/file/d/115om8CccBYxTZc3w-hqfVwGTWJeUtrrG/view?usp=sharing)||
 |Tu 4/18|[NoSQL: MongoDB](https://colab.research.google.com/drive/1fANwBEUHNJYVVCOYF4eK8L2yMgxy87DS?usp=sharing)||
 |Th 4/20|[Linear and Logistic Regression](https://colab.research.google.com/drive/1zTE3lKn7JxB1dtBKVkWozexF0ebwPxlc?usp=sharing)||
 |Tu 4/25|[Decision Trees; Random Forests (Machine Learning)](https://colab.research.google.com/drive/1PxsHAR_uijeo4S_deQielFktl_AiTpO5?usp=sharing)||
