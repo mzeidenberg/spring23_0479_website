@@ -102,7 +102,7 @@ The grace day system is designed to handle any personal situations you have, lik
 
 ## Information about Ed
 
-You should have been automatically signed up for the Ed discussion system. The link (also in Brightspace in the Content area$)
+You should have been automatically signed up for the Ed discussion system. The link (also in Brightspace in the Content area)
 is https://edstem.org/us/courses/35997/discussion/
 
 Ed is an online discussion forum system that is designed to make it easy to have conversations around code.  Using Ed you will be able to ask me, the course tutors or your fellow students questions about course content and homework assignments. So if you have a question about the course content that could be of interest to other students, please post your question to Ed rather than sending me or the course assistant an email. Both of us will monitor Ed and answer questions there. You can also feel free to answer questions yourself if you know the answer.
