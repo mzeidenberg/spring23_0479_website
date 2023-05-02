@@ -59,6 +59,6 @@ The following schedule is subject to change based on the speed at which we get t
 |Tu 4/18|[NoSQL: MongoDB](https://colab.research.google.com/drive/1fANwBEUHNJYVVCOYF4eK8L2yMgxy87DS?usp=sharing)||
 |Th 4/20, Tues 4/25|[Linear and Logistic Regression](https://colab.research.google.com/drive/1zTE3lKn7JxB1dtBKVkWozexF0ebwPxlc?usp=sharing)||
 |Th 4/27|[Decision Trees](https://colab.research.google.com/drive/1PxsHAR_uijeo4S_deQielFktl_AiTpO5?usp=sharing)||
-|Tu 5/2|[Random Forests](https://www.statsmodels.org/dev/examples/notebooks/generated/predict.html)||
+|Tu 5/2|[Random Forests](https://colab.research.google.com/drive/1xVjNodYZ08BvCKn1p9FRmQ-CgZklx0AD?usp=sharing)||
 |Th 5/4|Review for Final Exam: [Final Exam Questions and Solutions for Fall 2022](https://colab.research.google.com/drive/1Sxb_kfGKbAbQUOwddSB-DOEHDJU3ay4q?usp=sharing)|
 |W 5/10|Final Exam, Silver Room 520, 4-5:50 PM||
