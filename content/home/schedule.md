@@ -60,5 +60,5 @@ The following schedule is subject to change based on the speed at which we get t
 |Th 4/20, Tues 4/25|[Linear and Logistic Regression](https://colab.research.google.com/drive/1zTE3lKn7JxB1dtBKVkWozexF0ebwPxlc?usp=sharing)||
 |Th 4/27|[Decision Trees](https://colab.research.google.com/drive/1PxsHAR_uijeo4S_deQielFktl_AiTpO5?usp=sharing)||
 |Tu 5/2|[Random Forests](https://www.statsmodels.org/dev/examples/notebooks/generated/predict.html)||
-|Th 5/4|Review for Final Exam||
+|Th 5/4|Review for Final Exam [Final Exam Solutions for Fall 2022](https://colab.research.google.com/drive/1Sxb_kfGKbAbQUOwddSB-DOEHDJU3ay4q?usp=sharing)|
 |W 5/10|Final Exam, Silver Room 520, 4-5:50 PM||
