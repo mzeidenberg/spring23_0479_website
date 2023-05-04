@@ -66,6 +66,7 @@ The following books are all available for free online reading through the NYU li
 
 * Data Science from Scratch, Second Edition, by Joel Grus
 * Python for Data Analysis, Third Edition, by Wes McKinney
+* Hands-On Machine Learning with Scikit-Learn, Keras, and Tensor Flow, 3rd Edition, by Aurelien Geron
 * Think Stats, Second Edition, by Allen B. Downey
 * Using SQLite by Jay A. Kreibich
 * Relational Database Design and Implementation, 4th Edition, by Jan L. Harrington
